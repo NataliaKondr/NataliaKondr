@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+  <img height="300" width="600" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnVrcDBnd2U1a2VldWoyaXlocHB4ZWd0ZWk[…]12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZfU11ODanloCA/giphy.gif"  />
 </div>
 
 ###
@@ -17,7 +17,6 @@
    <a href="https://www.linkedin.com/in/natalia-kondrateva-5a15bb21b" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-   <a href="www.linkedin.com/in/natalia-kondrateva-5a15bb21b"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 </div>
 
 <!--
