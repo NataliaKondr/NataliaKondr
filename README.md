@@ -36,7 +36,6 @@
 4. Ответственность
 
 ### Где обучалась:
-- Онлайн-курс в RedRover.School "AQA"
 - Онлайн-курс на YouTube Artsiom Rusau "Тестировщик c нуля"
 - Онлайн-курс на Sololearn "Introduction to SQL", "CSS", "HTML"
 - Книги:С. Куликов "Тестирование ПО. Базовый курс"
