@@ -20,7 +20,9 @@
   </a>
 </div>
 
-### [CV] https://drive.google.com/file/d/1MMvDiz7W8RyAHp_oI0W-c4dFaNyeIBGs/view?usp=sharing)
+
+### Мое 
+[CV] (https://drive.google.com/file/d/1MMvDiz7W8RyAHp_oI0W-c4dFaNyeIBGs/view?usp=sharing))
 
 ### Профессиональные навыки:
 - Знания видов тестирования, техник тест-дизайна и методологий тестирования;
