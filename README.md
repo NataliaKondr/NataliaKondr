@@ -9,7 +9,6 @@
 <h1 align="center">Привет👋 Меня зовут Наталья!</h1>
 <h1 align="center">Я QA Engineer!</h1>
 <h1 align="center">Web/Mobile</h1>
-<h1 align="center">[CV](https://drive.google.com/file/d/1MMvDiz7W8RyAHp_oI0W-c4dFaNyeIBGs/view?usp=sharing)</h1>
 
 ###
 
@@ -21,7 +20,7 @@
     <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedIn logo"  />
   </a>
 </div>
-
+### [CV](https://drive.google.com/file/d/1MMvDiz7W8RyAHp_oI0W-c4dFaNyeIBGs/view?usp=sharing)
 ### Профессиональные навыки:
 - Знания видов тестирования, техник тест-дизайна и методологий тестирования;
 - Опыт создания тестовой документации: чек-листов , тест-кейсов и баг-репортов ;
