@@ -21,8 +21,8 @@
 </div>
 
 
-### Мое 
-актуальное [CV](https://drive.google.com/file/d/1MMvDiz7W8RyAHp_oI0W-c4dFaNyeIBGs/view?usp=sharing)
+### 
+Мое актуальное [CV](https://drive.google.com/file/d/1MMvDiz7W8RyAHp_oI0W-c4dFaNyeIBGs/view?usp=sharing)
 
 ### Профессиональные навыки:
 - Знания видов тестирования, техник тест-дизайна и методологий тестирования;
@@ -39,7 +39,7 @@
 1. Тестовое в [GameDev](https://docs.google.com/spreadsheets/d/1JN60laJ3xnO0UVp5CzkolVKrl8i64RcQA4lZDwir6qs/edit?gid=1590765664#gid=1590765664)
 2. Тестовое в [Интернет технологии](https://docs.google.com/spreadsheets/d/1org7OBh3O7kUdbCi0iYOtAjg9MsO4r2KwkqTutEqgy8/edit?gid=1568704828#gid=1568704828)
 3. Изучение HTML, CSS. Первое [CV](http://127.0.0.1:5500/indexs.html) написанное в VSCode
-4. Коллекции [API](file:///Users/nataliakondrateva/Desktop/%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/Postman%20GitHub/New%20Collection.postman_collection.json1)
+4. Коллекция [API](file:///Users/nataliakondrateva/Desktop/%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/Postman%20GitHub/New%20Collection.postman_collection.json1)
 
 ### Обучение и сертификаты:
 - Intensive [Mobile Testing Program](https://drive.google.com/file/d/1BmK7hLGNa2eTzC8rRjbIIe7aO_IuQRe6/view?usp=sharing)
@@ -63,3 +63,5 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![Jira](https://img.shields.io/badge/-Jira-black?logo=jira&style=social)&nbsp;&nbsp;
 ![Notion](https://img.shields.io/badge/-Notion-black?logo=notion&style=social)&nbsp;&nbsp;
+![Trello](https://img.shields.io/badge/-Trello-black?logo=trello&style=social)&nbsp;&nbsp;
+![Miro](https://img.shields.io/badge/-Miro-black?logo=miro&style=social)&nbsp;&nbsp;
