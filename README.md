@@ -7,7 +7,7 @@
 ###
 
 <h1 align="center">Привет👋 Меня зовут Наталья!</h1>
-<h1 align="center">Я QA Engineer Web/Mobile!</h1>
+<h1 align="center">Я QA Engineer Web/Mobile</h1>
 
 ###
 
@@ -35,7 +35,7 @@
 - Навыки командной и индивидуальной работы.
 
 
-### Мои некоторые проекты/тестовые:
+### Мои тестовые:
 1. Тестовое в [GameDev](https://docs.google.com/spreadsheets/d/1JN60laJ3xnO0UVp5CzkolVKrl8i64RcQA4lZDwir6qs/edit?gid=1590765664#gid=1590765664)
 2. Тестовое в [Интернет технологии](https://docs.google.com/spreadsheets/d/1org7OBh3O7kUdbCi0iYOtAjg9MsO4r2KwkqTutEqgy8/edit?gid=1568704828#gid=1568704828)
 3. Изучение HTML, CSS. Первое [CV](http://127.0.0.1:5500/indexs.html) написанное в VSCode
