@@ -6,8 +6,8 @@
 
 ###
 
-<h1 align="center">Привет👋 Меня зовут Наталья!</h1>
-<h1 align="center">Я QA Engineer Web/Mobile</h1>
+<h1 align="center">Hello👋 My name is Natalia!</h1>
+<h1 align="center">I'm a QA Engineer Web/Mobile</h1>
 
 ###
 
@@ -22,24 +22,24 @@
 
 
 ### 
-Мое актуальное [CV](https://drive.google.com/file/d/1MMvDiz7W8RyAHp_oI0W-c4dFaNyeIBGs/view?usp=sharing)
+My current [CV](https://drive.google.com/file/d/1MMvDiz7W8RyAHp_oI0W-c4dFaNyeIBGs/view?usp=sharing)
 
-### Профессиональные навыки:
-- Знания видов тестирования, техник тест-дизайна и методологий тестирования;
-- Опыт создания тестовой документации: чек-листов , тест-кейсов и баг-репортов ;
-- Практический навык декомпозиции продукта: составление интеллект-карты в Miro;
-- Практический опыт функционального, нефункционального тестирования, кроссбраузерного и кроссплатформенного тестирования;
-- Smoke, регрессионное тестирование, интеграционное тестирование, тестирование API, тестирование локализации, тестирование UI/UX;
-- Практические навыки работы с SQL;
-- Широкий общий кругозор в области IT и желание развиваться в этой сфере;
-- Навыки командной и индивидуальной работы.
+### Skills:
+- Knowledge of testing types, test design techniques and testing methodologies;
+- Experience in creating test documentation: checklists, test cases and bug reports;
+- Practical skill of product decomposition. Mind mapping in Miro;
+- Practical experience in functional, non-functional testing, cross-browser and cross-platform testing;
+- Smoke, regression, integration, API, localization, UI/UX testing;
+- Practical skills in working with SQL;
+- Broad general knowledge in the field of IT and a desire to develop in this area;
+- Teamwork and individual work skills.
 
-### Обучение и сертификаты:
+### Training and certificates:
 - Intensive [Mobile Testing Program](https://drive.google.com/file/d/1BmK7hLGNa2eTzC8rRjbIIe7aO_IuQRe6/view?usp=sharing)
-- Онлайн-курс на YouTube Artsiom Rusau "Тестировщик c нуля"
-- Онлайн-курс на Sololearn [SQL](https://drive.google.com/file/d/1KD3O6F68vHOI10V9gSRnMlfEl8umUfa4/view?usp=sharing), [CSS](https://drive.google.com/file/d/1rAUjW22PF7FKZUF_EW0xPaNGxeIsqiGW/view?usp=sharing), [HTML](https://drive.google.com/file/d/1rAUjW22PF7FKZUF_EW0xPaNGxeIsqiGW/view?usp=sharing)
-- Книги:С. Куликов "Тестирование ПО. Базовый курс"
-- [Основы ручного тестирования программного обеспечения](https://drive.google.com/file/d/1OqIUV3z7zWFbuj4aV-j_r2QD2s-1XL2T/view?usp=sharing)
+- Online course on YouTube Artsiom Rusau "Tester from scratch"
+- Online course on Sololearn [SQL](https://drive.google.com/file/d/1KD3O6F68vHOI10V9gSRnMlfEl8umUfa4/view?usp=sharing), [CSS](https://drive.google.com/file/d/1rAUjW22PF7FKZUF_EW0xPaNGxeIsqiGW/view?usp=sharing), [HTML](https://drive.google.com/file/d/1rAUjW22PF7FKZUF_EW0xPaNGxeIsqiGW/view?usp=sharing)
+- Books: S. Kulikov "Software Testing. Basic Course"
+- [Basics of Manual Software Testing](https://drive.google.com/file/d/1OqIUV3z7zWFbuj4aV-j_r2QD2s-1XL2T/view?usp=sharing)
 
 
   ###
